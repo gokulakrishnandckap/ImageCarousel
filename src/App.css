@@ -9,7 +9,7 @@
 .carousel-images {
   display: flex;
   transition: transform 0.5s ease;
-  cursor: pointer;
+  /* cursor: pointer; */
 }
 
 .carousel-image {
